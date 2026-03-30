@@ -67,3 +67,6 @@ Clone the project:
 
 ```bash
 git clone https://github.com/your-username/taskflow.git
+```
+👨‍💻 Author
+Made with 🌍 by Mensur - 2026
