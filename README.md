@@ -2,49 +2,66 @@
 <img width="500" height="900" alt="To Do List Screenshoot" src="https://github.com/user-attachments/assets/6f7f1735-4a0c-4c47-a724-768f58bc4745" />
 
 
-**TaskFlow - Modern To-Do List**
-TaskFlow is a simple and powerful web application to organize your daily tasks. I made this project using Vanilla JavaScript, HTML5, and CSS3. You can manage your time, create categories, and never forget your work.
+🚀 TaskFlow - Modern To-Do List
 
-**Key Features**
-Task Management: You can add, edit, and delete your tasks easily.
+TaskFlow, günlük görevlerinizi organize etmek için geliştirilmiş basit ama güçlü bir web uygulamasıdır.
+Bu proje Vanilla JavaScript, HTML5 ve CSS3 kullanılarak oluşturulmuştur.
 
-*Custom Categories:* You can create new categories (like Work, Study, Sport) or delete them.
+Zamanınızı daha iyi yönetin, kategoriler oluşturun ve hiçbir işi unutmayın!
 
-*Smart Filters:* Search your tasks by name, category, or date.
+✨ Key Features
+📝 Task Management
+Görev ekleme, düzenleme ve silme işlemlerini kolayca yapabilirsiniz.
+📂 Custom Categories
+Yeni kategoriler oluşturabilir (Work, Study, Sport vb.)
+İstediğiniz kategorileri silebilirsiniz.
+🔍 Smart Filters
+Görevlerinizi:
+İsme göre
+Kategoriye göre
+Tarihe göre filtreleyebilirsiniz.
+📅 Date Tracking
+Başlangıç ve bitiş tarihleri belirleyebilirsiniz.
+Geciken görevler kırmızı (Overdue) olarak gösterilir.
+💾 Local Storage
+Tüm veriler tarayıcıda saklanır.
+Sayfayı yenileseniz bile görevleriniz kaybolmaz.
+🎯 User Experience
+Gerçek zamanlı toast bildirimleri
+Özel modal pencereler
+Akıcı ve kullanıcı dostu deneyim
+🛠️ Technologies Used
+HTML5 → Semantik ve erişilebilir yapı
+CSS3 → Modern, responsive tasarım ve animasyonlar
+Vanilla JavaScript → DOM manipülasyonu ve uygulama mantığı
+Font Awesome → İkonlar
+Local Storage → Verilerin kalıcı olarak saklanması
+🎯 Project Goals
 
-*Date Tracking:* Set start and end dates. The app shows "Overdue" tasks in red.
+Bu projeyi geliştirirken şu konularda kendimi geliştirmeyi hedefledim:
 
-*Local Storage:* All your data is saved in your browser. If you refresh the page, your tasks stay there.
+JavaScript'te State (veri) yönetimi
+Async / Await kullanımı (özellikle custom modal yapılarında)
+Responsive UI tasarımı (Flexbox & Grid)
+LocalStorage ile CRUD işlemleri
+⚙️ Installation
 
-*User Experience:* Real-time toast notifications and custom modals for a better experience.
+Projeyi çalıştırmak için:
 
-**Technologies Used**
-*HTML5:* For semantic and accessible structure.
+git clone https://github.com/your-username/taskflow.git
 
-*CSS3:* For modern, responsive design and animations.
+Ardından:
 
-*Vanilla JavaScript:* For DOM manipulation and logic.
+index.html dosyasını tarayıcıda açın
+🎉 Usage
 
-*Font Awesome:* For beautiful icons.
+Uygulamayı açtıktan sonra:
 
-*Local Storage:* To keep data persistent without a database.
+Görev ekleyin
+Kategoriler oluşturun
+Filtreleme yapın
+Günlük planınızı organize edin
+📌 Final Note
 
-**Project Goals**
-*I created this project to learn:*
-
-How to manage State (data) in JavaScript.
-
-How to use Async/Await with custom modals.
-
-How to build a Responsive UI using Flexbox and Grid.
-
-How to use LocalStorage for CRUD operations.
-
-**Installation**
-*Clone this repository:*
---> git clone https://github.com/your-username/taskflow.git
-
--->Open the index.html file in your browser.
-
-Enjoy organizing your life!
-
+TaskFlow, basit bir To-Do uygulamasından fazlası —
+JavaScript mantığını ve frontend becerilerini geliştirmek için güçlü bir pratik projesidir.
