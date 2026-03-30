@@ -2,66 +2,68 @@
 <img width="500" height="900" alt="To Do List Screenshoot" src="https://github.com/user-attachments/assets/6f7f1735-4a0c-4c47-a724-768f58bc4745" />
 
 
-🚀 TaskFlow - Modern To-Do List
+# 🚀 TaskFlow - Modern To-Do List
 
-TaskFlow, günlük görevlerinizi organize etmek için geliştirilmiş basit ama güçlü bir web uygulamasıdır.
-Bu proje Vanilla JavaScript, HTML5 ve CSS3 kullanılarak oluşturulmuştur.
+TaskFlow is a simple web app to organize your daily tasks.  
+I made this project with HTML5, CSS3, and JavaScript.
 
-Zamanınızı daha iyi yönetin, kategoriler oluşturun ve hiçbir işi unutmayın!
+You can manage your time, create categories, and remember your work.
 
-✨ Key Features
-📝 Task Management
-Görev ekleme, düzenleme ve silme işlemlerini kolayca yapabilirsiniz.
-📂 Custom Categories
-Yeni kategoriler oluşturabilir (Work, Study, Sport vb.)
-İstediğiniz kategorileri silebilirsiniz.
-🔍 Smart Filters
-Görevlerinizi:
-İsme göre
-Kategoriye göre
-Tarihe göre filtreleyebilirsiniz.
-📅 Date Tracking
-Başlangıç ve bitiş tarihleri belirleyebilirsiniz.
-Geciken görevler kırmızı (Overdue) olarak gösterilir.
-💾 Local Storage
-Tüm veriler tarayıcıda saklanır.
-Sayfayı yenileseniz bile görevleriniz kaybolmaz.
-🎯 User Experience
-Gerçek zamanlı toast bildirimleri
-Özel modal pencereler
-Akıcı ve kullanıcı dostu deneyim
-🛠️ Technologies Used
-HTML5 → Semantik ve erişilebilir yapı
-CSS3 → Modern, responsive tasarım ve animasyonlar
-Vanilla JavaScript → DOM manipülasyonu ve uygulama mantığı
-Font Awesome → İkonlar
-Local Storage → Verilerin kalıcı olarak saklanması
-🎯 Project Goals
+---
 
-Bu projeyi geliştirirken şu konularda kendimi geliştirmeyi hedefledim:
+## ✨ Features
 
-JavaScript'te State (veri) yönetimi
-Async / Await kullanımı (özellikle custom modal yapılarında)
-Responsive UI tasarımı (Flexbox & Grid)
-LocalStorage ile CRUD işlemleri
-⚙️ Installation
+- 📝 **Task Management**  
+  You can add, edit, and delete tasks.
 
-Projeyi çalıştırmak için:
+- 📂 **Categories**  
+  You can create categories (Work, Study, Sport) and delete them.
 
+- 🔍 **Filters**  
+  You can search tasks:
+  - by name  
+  - by category  
+  - by date  
+
+- 📅 **Date System**  
+  You can set start and end dates.  
+  Late tasks show in red (Overdue).
+
+- 💾 **Local Storage**  
+  Your data is saved in your browser.  
+  If you refresh the page, your tasks stay.
+
+- 🎯 **User Experience**  
+  - Toast messages  
+  - Simple modals  
+  - Easy to use  
+
+---
+
+## 🛠️ Technologies
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Font Awesome  
+- Local Storage  
+
+---
+
+## 🎯 Project Goals
+
+In this project, I learned:
+
+- How to manage data (state)  
+- How to use async / await  
+- How to make responsive design  
+- How to use LocalStorage  
+
+---
+
+## ⚙️ Installation
+
+Clone the project:
+
+```bash
 git clone https://github.com/your-username/taskflow.git
-
-Ardından:
-
-index.html dosyasını tarayıcıda açın
-🎉 Usage
-
-Uygulamayı açtıktan sonra:
-
-Görev ekleyin
-Kategoriler oluşturun
-Filtreleme yapın
-Günlük planınızı organize edin
-📌 Final Note
-
-TaskFlow, basit bir To-Do uygulamasından fazlası —
-JavaScript mantığını ve frontend becerilerini geliştirmek için güçlü bir pratik projesidir.
